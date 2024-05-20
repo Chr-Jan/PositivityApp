@@ -20,7 +20,7 @@ private val quotesLIst = listOf(
     "Your limitation it's only your imagination"
 )
 
-private val AuthorsList = listOf(
+private val authorsList = listOf(
     "Some guy",
     "Theodore Roosevelt",
     "Steve Jobs",
@@ -57,12 +57,12 @@ class MainActivity : AppCompatActivity() {
             refreshButton.setOnClickListener {
                 val randomIndex = quotesLIst.indices.random()
                 firstTextView.text = quotesLIst[randomIndex]
-                secondTextView.text = AuthorsList[randomIndex]
+                secondTextView.text = authorsList[randomIndex]
 
                 /*
                 val random = (0 until quotesLIst.size).random()
                 firstTextView.text = quotesLIst[random]
-                secondTextView.text = AuthorsList[random]
+                secondTextView.text = authorsList[random]
                  */
             }
         }
