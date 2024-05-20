@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PositivityApp</string>
+
+    <string name="positive_quote1">Listen to the first quote</string>
+    <string name="author_quote1">Some guy</string>
+
+    <string name="Refresh">Tap for more</string>
+</resources>
