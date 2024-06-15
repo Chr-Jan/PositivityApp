@@ -26,15 +26,6 @@
             <li>An Android device or emulator running Android 5.0 (Lollipop) or higher</li>
         </ul>
 <br>
-        <h3>Installation</h3>
-        <ol>
-            <li>Clone the repository:
-                <pre><code>git clone https://github.com/yourusername/positivity-app.git</code></pre>
-            </li>
-            <li>Open the project in Android Studio.</li>
-            <li>Build and run the project on your preferred device or emulator.</li>
-        </ol>
-        <br>
         <h3>Example images</h3>
         <br>
                 <img src="GitHub_images/image1.png" style="width: 25%;">
