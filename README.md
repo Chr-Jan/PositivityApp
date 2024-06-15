@@ -34,6 +34,10 @@
             <li>Open the project in Android Studio.</li>
             <li>Build and run the project on your preferred device or emulator.</li>
         </ol>
+        <br>
+        <h3>Example images</h3>
+        <br>
+        <image src="GitHub_images/images1.png" style="width=55%;"/>
 <br>
         <h2>Contributing</h2>
         <p>Contributions are welcome! Please fork the repository and create a pull request with your changes.</p>
