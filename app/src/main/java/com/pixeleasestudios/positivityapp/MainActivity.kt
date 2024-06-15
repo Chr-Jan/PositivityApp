@@ -8,7 +8,6 @@ import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 
 private val quotesLIst = listOf(
-    "You are doing great",
     "Believe you can and you're halfway there",
     "The only way to do great work is to love what you do",
     "The harder you work for something, the greater you’ll feel when you achieve it",
@@ -21,7 +20,6 @@ private val quotesLIst = listOf(
 )
 
 private val authorsList = listOf(
-    "Some guy",
     "Theodore Roosevelt",
     "Steve Jobs",
     "Sudhashree Acharya",
