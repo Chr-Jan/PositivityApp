@@ -28,8 +28,10 @@
 <br>
         <h3>Example images</h3>
         <br>
-                <img src="GitHub_images/image1.png" style="width: 25%;">
-                <img src="GitHub_images/image2.png" style="width: 25%;">
+        <div>
+                        <img src="GitHub_images/image1.png" style="width: 25%;">
+                <img src="GitHub_images/image2.png" style="width: 25%;">        
+        </div>
 <br>
         <h2>License</h2>
                 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
