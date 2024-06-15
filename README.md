@@ -37,7 +37,7 @@
         <br>
         <h3>Example images</h3>
         <br>
-                <img src="GitHub_images/image1.png" style="width: 55%;">
+                <img src="GitHub_images/image1.png" style="width: 25%;">
                 <img src="GitHub_images/image2.png" style="width: 25%;">
 <br>
         <h2>Contributing</h2>
