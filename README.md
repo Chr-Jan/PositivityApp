@@ -40,8 +40,5 @@
                 <img src="GitHub_images/image1.png" style="width: 25%;">
                 <img src="GitHub_images/image2.png" style="width: 25%;">
 <br>
-        <h2>Contributing</h2>
-        <p>Contributions are welcome! Please fork the repository and create a pull request with your changes.</p>
-<br>
         <h2>License</h2>
                 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
